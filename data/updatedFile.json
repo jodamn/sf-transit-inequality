@@ -1,0 +1,2975 @@
+{
+    "stops": {
+        "Greenbush Station": {
+            "lon": -70.746,
+            "county_fips": "023",
+            "name": "Greenbush Station",
+            "median_income": "68404",
+            "state_fips": "25",
+            "tract_fips": "505200",
+            "lat": 42.1795
+        },
+        "Fenwood Road Station": {
+            "lon": -71.1055862904,
+            "county_fips": "025",
+            "name": "Fenwood Road Station",
+            "median_income": "28932",
+            "state_fips": "25",
+            "tract_fips": "081001",
+            "lat": 42.3337481755
+        },
+        "Newton Street Station": {
+            "lon": -71.073795,
+            "county_fips": "025",
+            "name": "Newton Street Station",
+            "median_income": "44076",
+            "state_fips": "25",
+            "tract_fips": "071101",
+            "lat": 42.338697
+        },
+        "Rockport": {
+            "lon": -70.625616,
+            "county_fips": "009",
+            "name": "Rockport",
+            "median_income": "70164",
+            "state_fips": "25",
+            "tract_fips": "220101",
+            "lat": 42.656173
+        },
+        "Porter Square Station": {
+            "lon": -71.1192440987,
+            "county_fips": "017",
+            "name": "Porter Square Station",
+            "median_income": "79844",
+            "state_fips": "25",
+            "tract_fips": "354500",
+            "lat": 42.3883461218
+        },
+        "Fitchburg": {
+            "lon": -71.79275,
+            "county_fips": "027",
+            "name": "Fitchburg",
+            "median_income": "13642",
+            "state_fips": "25",
+            "tract_fips": "710700",
+            "lat": 42.581739
+        },
+        "Jackson Square Station": {
+            "lon": -71.1000823975,
+            "county_fips": "025",
+            "name": "Jackson Square Station",
+            "median_income": "47150",
+            "state_fips": "25",
+            "tract_fips": "120500",
+            "lat": 42.3227388088
+        },
+        "Chiswick Road Station": {
+            "lon": -71.1513018608,
+            "county_fips": "025",
+            "name": "Chiswick Road Station",
+            "median_income": "49531",
+            "state_fips": "25",
+            "tract_fips": "000503",
+            "lat": 42.3403385961
+        },
+        "Providence": {
+            "lon": -71.413332,
+            "county_fips": "007",
+            "name": "Providence",
+            "median_income": "15960",
+            "state_fips": "44",
+            "tract_fips": "000800",
+            "lat": 41.829641
+        },
+        "Beaconsfield Station": {
+            "lon": -71.141602993,
+            "county_fips": "021",
+            "name": "Beaconsfield Station",
+            "median_income": "138506",
+            "state_fips": "25",
+            "tract_fips": "400600",
+            "lat": 42.3359609208
+        },
+        "Attleboro": {
+            "lon": -71.284897,
+            "county_fips": "005",
+            "name": "Attleboro",
+            "median_income": "60792",
+            "state_fips": "25",
+            "tract_fips": "631500",
+            "lat": 41.942097
+        },
+        "Route 128": {
+            "lon": -71.1471,
+            "county_fips": "021",
+            "name": "Route 128",
+            "median_income": "117750",
+            "state_fips": "25",
+            "tract_fips": "412300",
+            "lat": 42.209884
+        },
+        "Needham Junction": {
+            "lon": -71.238007,
+            "county_fips": "021",
+            "name": "Needham Junction",
+            "median_income": "153182",
+            "state_fips": "25",
+            "tract_fips": "403300",
+            "lat": 42.273327
+        },
+        "Cedar Grove Station": {
+            "lon": -71.0597419739,
+            "county_fips": "025",
+            "name": "Cedar Grove Station",
+            "median_income": "60813",
+            "state_fips": "25",
+            "tract_fips": "100800",
+            "lat": 42.278420118
+        },
+        "Wellesley Square": {
+            "lon": -71.294311,
+            "county_fips": "021",
+            "name": "Wellesley Square",
+            "median_income": "122885",
+            "state_fips": "25",
+            "tract_fips": "404400",
+            "lat": 42.296427
+        },
+        "River Works": {
+            "lon": -70.975698,
+            "county_fips": "009",
+            "name": "River Works",
+            "median_income": "41536",
+            "state_fips": "25",
+            "tract_fips": "205800",
+            "lat": 42.453804
+        },
+        "Bradford": {
+            "lon": -71.085998,
+            "county_fips": "009",
+            "name": "Bradford",
+            "median_income": "60194",
+            "state_fips": "25",
+            "tract_fips": "261000",
+            "lat": 42.768899
+        },
+        "Plymouth": {
+            "lon": -70.692514,
+            "county_fips": "023",
+            "name": "Plymouth",
+            "median_income": "54000",
+            "state_fips": "25",
+            "tract_fips": "530200",
+            "lat": 41.981184
+        },
+        "Mansfield": {
+            "lon": -71.219318,
+            "county_fips": "005",
+            "name": "Mansfield",
+            "median_income": "59526",
+            "state_fips": "25",
+            "tract_fips": "610100",
+            "lat": 42.032734
+        },
+        "Stony Brook Station": {
+            "lon": -71.1028289795,
+            "county_fips": "025",
+            "name": "Stony Brook Station",
+            "median_income": "61599",
+            "state_fips": "25",
+            "tract_fips": "120301",
+            "lat": 42.3192008078
+        },
+        "Waltham": {
+            "lon": -71.236595,
+            "county_fips": "017",
+            "name": "Waltham",
+            "median_income": "58417",
+            "state_fips": "25",
+            "tract_fips": "368800",
+            "lat": 42.374424
+        },
+        "Andrew Station": {
+            "lon": -71.05696,
+            "county_fips": "025",
+            "name": "Andrew Station",
+            "median_income": "67813",
+            "state_fips": "25",
+            "tract_fips": "061200",
+            "lat": 42.32955
+        },
+        "Shirley": {
+            "lon": -71.648363,
+            "county_fips": "017",
+            "name": "Shirley",
+            "median_income": "71146",
+            "state_fips": "25",
+            "tract_fips": "388200",
+            "lat": 42.544726
+        },
+        "West Newton": {
+            "lon": -71.22901,
+            "county_fips": "017",
+            "name": "West Newton",
+            "median_income": "100841",
+            "state_fips": "25",
+            "tract_fips": "374500",
+            "lat": 42.348599
+        },
+        "West Gloucester": {
+            "lon": -70.706456,
+            "county_fips": "009",
+            "name": "West Gloucester",
+            "median_income": "67227",
+            "state_fips": "25",
+            "tract_fips": "221902",
+            "lat": 42.610928
+        },
+        "St. Paul Street Station (B)": {
+            "lon": -71.1159074306,
+            "county_fips": "025",
+            "name": "St. Paul Street Station (B)",
+            "median_income": "28304",
+            "state_fips": "25",
+            "tract_fips": "000803",
+            "lat": 42.3511308015
+        },
+        "Back of the Hill Station": {
+            "lon": -71.1113369465,
+            "county_fips": "025",
+            "name": "Back of the Hill Station",
+            "median_income": "45125",
+            "state_fips": "25",
+            "tract_fips": "081100",
+            "lat": 42.3300759568
+        },
+        "Chestnut Hill Avenue Station": {
+            "lon": -71.1533403397,
+            "county_fips": "025",
+            "name": "Chestnut Hill Avenue Station",
+            "median_income": "46205",
+            "state_fips": "25",
+            "tract_fips": "000502",
+            "lat": 42.338086352
+        },
+        "Malden Center Station": {
+            "lon": -71.073871851,
+            "county_fips": "017",
+            "name": "Malden Center Station",
+            "median_income": "43183",
+            "state_fips": "25",
+            "tract_fips": "341300",
+            "lat": 42.4273133438
+        },
+        "Butler Station": {
+            "lon": -71.0627675056,
+            "county_fips": "025",
+            "name": "Butler Station",
+            "median_income": "60813",
+            "state_fips": "25",
+            "tract_fips": "100800",
+            "lat": 42.2721169516
+        },
+        "Green Street Station": {
+            "lon": -71.107313633,
+            "county_fips": "025",
+            "name": "Green Street Station",
+            "median_income": "64636",
+            "state_fips": "25",
+            "tract_fips": "120201",
+            "lat": 42.3105691548
+        },
+        "Reading": {
+            "lon": -71.10744,
+            "county_fips": "017",
+            "name": "Reading",
+            "median_income": "103650",
+            "state_fips": "25",
+            "tract_fips": "334100",
+            "lat": 42.52148
+        },
+        "Wilmington": {
+            "lon": -71.173569,
+            "county_fips": "017",
+            "name": "Wilmington",
+            "median_income": "95967",
+            "state_fips": "25",
+            "tract_fips": "331102",
+            "lat": 42.546368
+        },
+        "Needham Heights": {
+            "lon": -71.235087,
+            "county_fips": "021",
+            "name": "Needham Heights",
+            "median_income": "96494",
+            "state_fips": "25",
+            "tract_fips": "403500",
+            "lat": 42.293139
+        },
+        "West Concord": {
+            "lon": -71.392371,
+            "county_fips": "017",
+            "name": "West Concord",
+            "median_income": "113672",
+            "state_fips": "25",
+            "tract_fips": "361200",
+            "lat": 42.456372
+        },
+        "West Roxbury": {
+            "lon": -71.159932,
+            "county_fips": "025",
+            "name": "West Roxbury",
+            "median_income": "102328",
+            "state_fips": "25",
+            "tract_fips": "130200",
+            "lat": 42.2816
+        },
+        "Salem": {
+            "lon": -70.898903,
+            "county_fips": "009",
+            "name": "Salem",
+            "median_income": "61953",
+            "state_fips": "25",
+            "tract_fips": "204500",
+            "lat": 42.523927
+        },
+        "Kenmore Station": {
+            "lon": -71.095296,
+            "county_fips": "025",
+            "name": "Kenmore Station",
+            "median_income": "29818",
+            "state_fips": "25",
+            "tract_fips": "010104",
+            "lat": 42.348797
+        },
+        "Weymouth Landing/East Braintree Station": {
+            "lon": -70.9682,
+            "county_fips": "021",
+            "name": "Weymouth Landing/East Braintree Station",
+            "median_income": "93397",
+            "state_fips": "25",
+            "tract_fips": "419500",
+            "lat": 42.2208
+        },
+        "Orient Heights Station": {
+            "lon": -71.006628,
+            "county_fips": "025",
+            "name": "Orient Heights Station",
+            "median_income": "53750",
+            "state_fips": "25",
+            "tract_fips": "051101",
+            "lat": 42.386676
+        },
+        "Shawmut Station": {
+            "lon": -71.0657823086,
+            "county_fips": "025",
+            "name": "Shawmut Station",
+            "median_income": "45848",
+            "state_fips": "25",
+            "tract_fips": "092200",
+            "lat": 42.2927943769
+        },
+        "Malden Center": {
+            "lon": -71.074227,
+            "county_fips": "017",
+            "name": "Malden Center",
+            "median_income": "43183",
+            "state_fips": "25",
+            "tract_fips": "341300",
+            "lat": 42.426407
+        },
+        "Beverly Depot": {
+            "lon": -70.885168,
+            "county_fips": "009",
+            "name": "Beverly Depot",
+            "median_income": "54093",
+            "state_fips": "25",
+            "tract_fips": "217400",
+            "lat": 42.546907
+        },
+        "Hawes Street Station": {
+            "lon": -71.1110150814,
+            "county_fips": "021",
+            "name": "Hawes Street Station",
+            "median_income": "72195",
+            "state_fips": "25",
+            "tract_fips": "400100",
+            "lat": 42.3449538585
+        },
+        "Hamilton/Wenham": {
+            "lon": -70.874005,
+            "county_fips": "009",
+            "name": "Hamilton/Wenham",
+            "median_income": "107470",
+            "state_fips": "25",
+            "tract_fips": "215101",
+            "lat": 42.610756
+        },
+        "Milton Station": {
+            "lon": -71.0679495335,
+            "county_fips": "021",
+            "name": "Milton Station",
+            "median_income": "105017",
+            "state_fips": "25",
+            "tract_fips": "416300",
+            "lat": 42.2703465534
+        },
+        "St. Paul Street Station (C)": {
+            "lon": -71.1173450947,
+            "county_fips": "021",
+            "name": "St. Paul Street Station (C)",
+            "median_income": "67554",
+            "state_fips": "25",
+            "tract_fips": "400200",
+            "lat": 42.3432251573
+        },
+        "North Quincy Station": {
+            "lon": -71.0291755199,
+            "county_fips": "021",
+            "name": "North Quincy Station",
+            "median_income": "61832",
+            "state_fips": "25",
+            "tract_fips": "417200",
+            "lat": 42.2748161177
+        },
+        "Montserrat": {
+            "lon": -70.870035,
+            "county_fips": "009",
+            "name": "Montserrat",
+            "median_income": "73242",
+            "state_fips": "25",
+            "tract_fips": "217500",
+            "lat": 42.561483
+        },
+        "Kingston/Route 3": {
+            "lon": -70.720315,
+            "county_fips": "023",
+            "name": "Kingston/Route 3",
+            "median_income": "75176",
+            "state_fips": "25",
+            "tract_fips": "509101",
+            "lat": 41.978548
+        },
+        "Washington Street Station": {
+            "lon": -71.1428689957,
+            "county_fips": "025",
+            "name": "Washington Street Station",
+            "median_income": "33444",
+            "state_fips": "25",
+            "tract_fips": "000504",
+            "lat": 42.3436850916
+        },
+        "Design Center": {
+            "lon": -71.034797,
+            "county_fips": "025",
+            "name": "Design Center",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.34468
+        },
+        "Bowdoin Station": {
+            "lon": -71.062129,
+            "county_fips": "025",
+            "name": "Bowdoin Station",
+            "median_income": "122309",
+            "state_fips": "25",
+            "tract_fips": "030300",
+            "lat": 42.361457
+        },
+        "Community College Station": {
+            "lon": -71.0702776909,
+            "county_fips": "025",
+            "name": "Community College Station",
+            "median_income": "73184",
+            "state_fips": "25",
+            "tract_fips": "040401",
+            "lat": 42.3726383181
+        },
+        "Melrose Highlands": {
+            "lon": -71.06827,
+            "county_fips": "017",
+            "name": "Melrose Highlands",
+            "median_income": "83825",
+            "state_fips": "25",
+            "tract_fips": "336100",
+            "lat": 42.468793
+        },
+        "Cleveland Circle Station": {
+            "lon": -71.1507225037,
+            "county_fips": "025",
+            "name": "Cleveland Circle Station",
+            "median_income": "46205",
+            "state_fips": "25",
+            "tract_fips": "000502",
+            "lat": 42.335897474
+        },
+        "Hanson": {
+            "lon": -70.881553,
+            "county_fips": "023",
+            "name": "Hanson",
+            "median_income": "86948",
+            "state_fips": "25",
+            "tract_fips": "522102",
+            "lat": 42.043262
+        },
+        "Newburyport": {
+            "lon": -70.880262,
+            "county_fips": "009",
+            "name": "Newburyport",
+            "median_income": "60462",
+            "state_fips": "25",
+            "tract_fips": "268300",
+            "lat": 42.800292
+        },
+        "Blandford Street Station": {
+            "lon": -71.100796,
+            "county_fips": "025",
+            "name": "Blandford Street Station",
+            "median_income": "14953",
+            "state_fips": "25",
+            "tract_fips": "010103",
+            "lat": 42.349297
+        },
+        "Broadway Station": {
+            "lon": -71.05713,
+            "county_fips": "025",
+            "name": "Broadway Station",
+            "median_income": "67813",
+            "state_fips": "25",
+            "tract_fips": "061200",
+            "lat": 42.3429
+        },
+        "Wood Island Station": {
+            "lon": -71.023394,
+            "county_fips": "025",
+            "name": "Wood Island Station",
+            "median_income": "51038",
+            "state_fips": "25",
+            "tract_fips": "050901",
+            "lat": 42.380797
+        },
+        "East Berkeley Street Station": {
+            "lon": -71.066039,
+            "county_fips": "025",
+            "name": "East Berkeley Street Station",
+            "median_income": "71058",
+            "state_fips": "25",
+            "tract_fips": "070500",
+            "lat": 42.343878
+        },
+        "Northern Avenue at Tide Street": {
+            "lon": -71.0319757462,
+            "county_fips": "025",
+            "name": "Northern Avenue at Tide Street",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.3450965932
+        },
+        "Westborough": {
+            "lon": -71.652204,
+            "county_fips": "027",
+            "name": "Westborough",
+            "median_income": "108188",
+            "state_fips": "25",
+            "tract_fips": "742402",
+            "lat": 42.269318
+        },
+        "Aquarium Station": {
+            "lon": -71.05357,
+            "county_fips": "025",
+            "name": "Aquarium Station",
+            "median_income": "122309",
+            "state_fips": "25",
+            "tract_fips": "030300",
+            "lat": 42.359456
+        },
+        "Union Park Street Station": {
+            "lon": -71.069795,
+            "county_fips": "025",
+            "name": "Union Park Street Station",
+            "median_income": "37923",
+            "state_fips": "25",
+            "tract_fips": "071201",
+            "lat": 42.341197
+        },
+        "Brigham Circle Station": {
+            "lon": -71.104996,
+            "county_fips": "025",
+            "name": "Brigham Circle Station",
+            "median_income": "28932",
+            "state_fips": "25",
+            "tract_fips": "081001",
+            "lat": 42.334097
+        },
+        "Revere Beach Station": {
+            "lon": -70.992193222,
+            "county_fips": "025",
+            "name": "Revere Beach Station",
+            "median_income": "40625",
+            "state_fips": "25",
+            "tract_fips": "170701",
+            "lat": 42.4071633648
+        },
+        "Hyde Park": {
+            "lon": -71.125022,
+            "county_fips": "025",
+            "name": "Hyde Park",
+            "median_income": "54640",
+            "state_fips": "25",
+            "tract_fips": "140300",
+            "lat": 42.255121
+        },
+        "Lynn": {
+            "lon": -70.947794,
+            "county_fips": "009",
+            "name": "Lynn",
+            "median_income": "22146",
+            "state_fips": "25",
+            "tract_fips": "207000",
+            "lat": 42.462293
+        },
+        "Mattapan Station": {
+            "lon": -71.0931301117,
+            "county_fips": "025",
+            "name": "Mattapan Station",
+            "median_income": "36128",
+            "state_fips": "25",
+            "tract_fips": "101002",
+            "lat": 42.2674566487
+        },
+        "Walpole": {
+            "lon": -71.259016,
+            "county_fips": "021",
+            "name": "Walpole",
+            "median_income": "85461",
+            "state_fips": "25",
+            "tract_fips": "411302",
+            "lat": 42.144192
+        },
+        "Waverley": {
+            "lon": -71.189864,
+            "county_fips": "017",
+            "name": "Waverley",
+            "median_income": "72961",
+            "state_fips": "25",
+            "tract_fips": "357700",
+            "lat": 42.387489
+        },
+        "Montello": {
+            "lon": -71.021078,
+            "county_fips": "023",
+            "name": "Montello",
+            "median_income": "72738",
+            "state_fips": "25",
+            "tract_fips": "510200",
+            "lat": 42.106047
+        },
+        "Babcock Street Station": {
+            "lon": -71.1212611198,
+            "county_fips": "025",
+            "name": "Babcock Street Station",
+            "median_income": "28304",
+            "state_fips": "25",
+            "tract_fips": "000803",
+            "lat": 42.3517413265
+        },
+        "Anderson/Woburn": {
+            "lon": -71.13865,
+            "county_fips": "017",
+            "name": "Anderson/Woburn",
+            "median_income": "72766",
+            "state_fips": "25",
+            "tract_fips": "333600",
+            "lat": 42.518082
+        },
+        "Sutherland Street Station": {
+            "lon": -71.1466240883,
+            "county_fips": "025",
+            "name": "Sutherland Street Station",
+            "median_income": "49531",
+            "state_fips": "25",
+            "tract_fips": "000503",
+            "lat": 42.3414964086
+        },
+        "Brookline Hills Station": {
+            "lon": -71.1258637905,
+            "county_fips": "021",
+            "name": "Brookline Hills Station",
+            "median_income": "135481",
+            "state_fips": "25",
+            "tract_fips": "400700",
+            "lat": 42.3312101639
+        },
+        "North Beverly": {
+            "lon": -70.884501,
+            "county_fips": "009",
+            "name": "North Beverly",
+            "median_income": "76769",
+            "state_fips": "25",
+            "tract_fips": "217100",
+            "lat": 42.582471
+        },
+        "Gloucester": {
+            "lon": -70.668767,
+            "county_fips": "009",
+            "name": "Gloucester",
+            "median_income": "39564",
+            "state_fips": "25",
+            "tract_fips": "221500",
+            "lat": 42.616069
+        },
+        "Harvard Avenue Station": {
+            "lon": -71.1310243607,
+            "county_fips": "025",
+            "name": "Harvard Avenue Station",
+            "median_income": "44774",
+            "state_fips": "25",
+            "tract_fips": "000704",
+            "lat": 42.3502348256
+        },
+        "Arlington Station": {
+            "lon": -71.070498,
+            "county_fips": "025",
+            "name": "Arlington Station",
+            "median_income": "117436",
+            "state_fips": "25",
+            "tract_fips": "070300",
+            "lat": 42.351868
+        },
+        "Framingham": {
+            "lon": -71.416792,
+            "county_fips": "017",
+            "name": "Framingham",
+            "median_income": "54674",
+            "state_fips": "25",
+            "tract_fips": "383200",
+            "lat": 42.276719
+        },
+        "Boston University East Station": {
+            "lon": -71.103825,
+            "county_fips": "025",
+            "name": "Boston University East Station",
+            "median_income": "14953",
+            "state_fips": "25",
+            "tract_fips": "010103",
+            "lat": 42.349648
+        },
+        "Wakefield": {
+            "lon": -71.075,
+            "county_fips": "017",
+            "name": "Wakefield",
+            "median_income": "82375",
+            "state_fips": "25",
+            "tract_fips": "335100",
+            "lat": 42.501811
+        },
+        "25 Dry Dock Avenue": {
+            "lon": -71.028307,
+            "county_fips": "025",
+            "name": "25 Dry Dock Avenue",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.344602
+        },
+        "Melnea Cass Boulevard Station": {
+            "lon": -71.0810709,
+            "county_fips": "025",
+            "name": "Melnea Cass Boulevard Station",
+            "median_income": "13446",
+            "state_fips": "25",
+            "tract_fips": "080401",
+            "lat": 42.3329074705
+        },
+        "Prides Crossing": {
+            "lon": -70.824813,
+            "county_fips": "009",
+            "name": "Prides Crossing",
+            "median_income": "100409",
+            "state_fips": "25",
+            "tract_fips": "217600",
+            "lat": 42.559513
+        },
+        "Hynes Convention Center/ICA Station": {
+            "lon": -71.088396,
+            "county_fips": "025",
+            "name": "Hynes Convention Center/ICA Station",
+            "median_income": "29818",
+            "state_fips": "25",
+            "tract_fips": "010104",
+            "lat": 42.348097
+        },
+        "Whitman": {
+            "lon": -70.923204,
+            "county_fips": "023",
+            "name": "Whitman",
+            "median_income": "82155",
+            "state_fips": "25",
+            "tract_fips": "521202",
+            "lat": 42.083563
+        },
+        "Ballardvale": {
+            "lon": -71.159653,
+            "county_fips": "009",
+            "name": "Ballardvale",
+            "median_income": "145545",
+            "state_fips": "25",
+            "tract_fips": "254403",
+            "lat": 42.626449
+        },
+        "Newton Center Station": {
+            "lon": -71.1923182011,
+            "county_fips": "017",
+            "name": "Newton Center Station",
+            "median_income": "102143",
+            "state_fips": "25",
+            "tract_fips": "373800",
+            "lat": 42.329354178
+        },
+        "North Station": {
+            "lon": -71.061423,
+            "county_fips": "025",
+            "name": "North Station",
+            "median_income": "91136",
+            "state_fips": "25",
+            "tract_fips": "020303",
+            "lat": 42.365512
+        },
+        "Dedham Corporate": {
+            "lon": -71.173806,
+            "county_fips": "021",
+            "name": "Dedham Corporate",
+            "median_income": "93177",
+            "state_fips": "25",
+            "tract_fips": "402300",
+            "lat": 42.225896
+        },
+        "Manchester": {
+            "lon": -70.770473,
+            "county_fips": "009",
+            "name": "Manchester",
+            "median_income": "114639",
+            "state_fips": "25",
+            "tract_fips": "218100",
+            "lat": 42.57357
+        },
+        "Haverhill": {
+            "lon": -71.085962,
+            "county_fips": "009",
+            "name": "Haverhill",
+            "median_income": "27475",
+            "state_fips": "25",
+            "tract_fips": "260100",
+            "lat": 42.772684
+        },
+        "Longwood Medical Area Station": {
+            "lon": -71.100652,
+            "county_fips": "025",
+            "name": "Longwood Medical Area Station",
+            "median_income": "28932",
+            "state_fips": "25",
+            "tract_fips": "081001",
+            "lat": 42.335837
+        },
+        "Kendall/MIT Station": {
+            "lon": -71.0865855217,
+            "county_fips": "017",
+            "name": "Kendall/MIT Station",
+            "median_income": "52604",
+            "state_fips": "25",
+            "tract_fips": "353102",
+            "lat": 42.3624602268
+        },
+        "Coolidge Corner Station": {
+            "lon": -71.121396,
+            "county_fips": "021",
+            "name": "Coolidge Corner Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.342097
+        },
+        "West Medford": {
+            "lon": -71.132468,
+            "county_fips": "017",
+            "name": "West Medford",
+            "median_income": "75668",
+            "state_fips": "25",
+            "tract_fips": "339300",
+            "lat": 42.421184
+        },
+        "Courthouse Station": {
+            "lon": -71.0453009605,
+            "county_fips": "025",
+            "name": "Courthouse Station",
+            "median_income": "81627",
+            "state_fips": "25",
+            "tract_fips": "060600",
+            "lat": 42.3520743376
+        },
+        "Dudley Square Station": {
+            "lon": -71.0851156712,
+            "county_fips": "025",
+            "name": "Dudley Square Station",
+            "median_income": "21422",
+            "state_fips": "25",
+            "tract_fips": "080601",
+            "lat": 42.3288941389
+        },
+        "Suffolk Downs Station": {
+            "lon": -71.0003578663,
+            "county_fips": "025",
+            "name": "Suffolk Downs Station",
+            "median_income": "53750",
+            "state_fips": "25",
+            "tract_fips": "051101",
+            "lat": 42.3884015915
+        },
+        "Concord": {
+            "lon": -71.358051,
+            "county_fips": "017",
+            "name": "Concord",
+            "median_income": "116023",
+            "state_fips": "25",
+            "tract_fips": "361100",
+            "lat": 42.457147
+        },
+        "North Wilmington": {
+            "lon": -71.159724,
+            "county_fips": "017",
+            "name": "North Wilmington",
+            "median_income": "95967",
+            "state_fips": "25",
+            "tract_fips": "331102",
+            "lat": 42.568462
+        },
+        "Boston University West Station": {
+            "lon": -71.1140727997,
+            "county_fips": "025",
+            "name": "Boston University West Station",
+            "median_income": "28304",
+            "state_fips": "25",
+            "tract_fips": "000803",
+            "lat": 42.350900862
+        },
+        "Alewife Station": {
+            "lon": -71.1409807205,
+            "county_fips": "017",
+            "name": "Alewife Station",
+            "median_income": "46716",
+            "state_fips": "25",
+            "tract_fips": "354900",
+            "lat": 42.3949070477
+        },
+        "Readville": {
+            "lon": -71.132376,
+            "county_fips": "025",
+            "name": "Readville",
+            "median_income": "60000",
+            "state_fips": "25",
+            "tract_fips": "140201",
+            "lat": 42.23775
+        },
+        "Lechmere Station": {
+            "lon": -71.076884,
+            "county_fips": "017",
+            "name": "Lechmere Station",
+            "median_income": "82050",
+            "state_fips": "25",
+            "tract_fips": "352102",
+            "lat": 42.370582
+        },
+        "Englewood Avenue Station": {
+            "lon": -71.1451220512,
+            "county_fips": "021",
+            "name": "Englewood Avenue Station",
+            "median_income": "138506",
+            "state_fips": "25",
+            "tract_fips": "400600",
+            "lat": 42.3371346753
+        },
+        "Riverway Station": {
+            "lon": -71.1120772362,
+            "county_fips": "025",
+            "name": "Riverway Station",
+            "median_income": "45125",
+            "state_fips": "25",
+            "tract_fips": "081100",
+            "lat": 42.3319795095
+        },
+        "Worcester / Union": {
+            "lon": -71.793881,
+            "county_fips": "027",
+            "name": "Worcester / Union",
+            "median_income": "30656",
+            "state_fips": "25",
+            "tract_fips": "731700",
+            "lat": 42.261796
+        },
+        "Wellington Station": {
+            "lon": -71.0770046711,
+            "county_fips": "017",
+            "name": "Wellington Station",
+            "median_income": "80673",
+            "state_fips": "25",
+            "tract_fips": "339801",
+            "lat": 42.4042955853
+        },
+        "Franklin": {
+            "lon": -71.396735,
+            "county_fips": "021",
+            "name": "Franklin",
+            "median_income": "76325",
+            "state_fips": "25",
+            "tract_fips": "442202",
+            "lat": 42.083591
+        },
+        "Summit Avenue (formerly Winchester Street) Station": {
+            "lon": -71.1246192455,
+            "county_fips": "021",
+            "name": "Summit Avenue (formerly Winchester Street) Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.3412822942
+        },
+        "Packards Corner Station": {
+            "lon": -71.1248660088,
+            "county_fips": "025",
+            "name": "Packards Corner Station",
+            "median_income": "20129",
+            "state_fips": "25",
+            "tract_fips": "000703",
+            "lat": 42.3520743376
+        },
+        "Nantasket Junction Station": {
+            "lon": -70.8697,
+            "county_fips": "023",
+            "name": "Nantasket Junction Station",
+            "median_income": "75045",
+            "state_fips": "25",
+            "tract_fips": "501101",
+            "lat": 42.2448
+        },
+        "Park Street Station": {
+            "lon": -71.0622954369,
+            "county_fips": "025",
+            "name": "Park Street Station",
+            "median_income": "47609",
+            "state_fips": "25",
+            "tract_fips": "070101",
+            "lat": 42.3561971861
+        },
+        "Beachmont Station": {
+            "lon": -70.992193222,
+            "county_fips": "025",
+            "name": "Beachmont Station",
+            "median_income": "40625",
+            "state_fips": "25",
+            "tract_fips": "170701",
+            "lat": 42.3974187182
+        },
+        "Harvard Square Station": {
+            "lon": -71.119106,
+            "county_fips": "017",
+            "name": "Harvard Square Station",
+            "median_income": "64615",
+            "state_fips": "25",
+            "tract_fips": "354000",
+            "lat": 42.373939
+        },
+        "Wellesley Farms": {
+            "lon": -71.272288,
+            "county_fips": "021",
+            "name": "Wellesley Farms",
+            "median_income": "214659",
+            "state_fips": "25",
+            "tract_fips": "404201",
+            "lat": 42.323608
+        },
+        "Hersey": {
+            "lon": -71.214853,
+            "county_fips": "021",
+            "name": "Hersey",
+            "median_income": "131076",
+            "state_fips": "25",
+            "tract_fips": "403100",
+            "lat": 42.275842
+        },
+        "Central Station": {
+            "lon": -71.103322506,
+            "county_fips": "017",
+            "name": "Central Station",
+            "median_income": "54228",
+            "state_fips": "25",
+            "tract_fips": "353000",
+            "lat": 42.3651634477
+        },
+        "North Billerica": {
+            "lon": -71.280869,
+            "county_fips": "017",
+            "name": "North Billerica",
+            "median_income": "89801",
+            "state_fips": "25",
+            "tract_fips": "316500",
+            "lat": 42.592881
+        },
+        "Brockton": {
+            "lon": -71.01686,
+            "county_fips": "023",
+            "name": "Brockton",
+            "median_income": "17131",
+            "state_fips": "25",
+            "tract_fips": "510900",
+            "lat": 42.08572
+        },
+        "Brandeis/Roberts": {
+            "lon": -71.260854,
+            "county_fips": "017",
+            "name": "Brandeis/Roberts",
+            "median_income": "64036",
+            "state_fips": "25",
+            "tract_fips": "368400",
+            "lat": 42.361728
+        },
+        "Massachusetts Avenue Station (Silver)": {
+            "lon": -71.077238,
+            "county_fips": "025",
+            "name": "Massachusetts Avenue Station (Silver)",
+            "median_income": "51034",
+            "state_fips": "25",
+            "tract_fips": "070900",
+            "lat": 42.336441
+        },
+        "Canton Center": {
+            "lon": -71.14553,
+            "county_fips": "021",
+            "name": "Canton Center",
+            "median_income": "81961",
+            "state_fips": "25",
+            "tract_fips": "415102",
+            "lat": 42.156769
+        },
+        "Halifax": {
+            "lon": -70.820832,
+            "county_fips": "023",
+            "name": "Halifax",
+            "median_income": "83522",
+            "state_fips": "25",
+            "tract_fips": "526100",
+            "lat": 42.012867
+        },
+        "Worcester Square Station": {
+            "lon": -71.075812,
+            "county_fips": "025",
+            "name": "Worcester Square Station",
+            "median_income": "51034",
+            "state_fips": "25",
+            "tract_fips": "070900",
+            "lat": 42.337456
+        },
+        "Quincy Center Station": {
+            "lon": -71.004798,
+            "county_fips": "021",
+            "name": "Quincy Center Station",
+            "median_income": "51100",
+            "state_fips": "25",
+            "tract_fips": "417701",
+            "lat": 42.250879
+        },
+        "Melrose/Cedar Park": {
+            "lon": -71.069448,
+            "county_fips": "017",
+            "name": "Melrose/Cedar Park",
+            "median_income": "83825",
+            "state_fips": "25",
+            "tract_fips": "336100",
+            "lat": 42.459128
+        },
+        "Islington": {
+            "lon": -71.183406,
+            "county_fips": "021",
+            "name": "Islington",
+            "median_income": "117750",
+            "state_fips": "25",
+            "tract_fips": "412300",
+            "lat": 42.220714
+        },
+        "Bridgewater": {
+            "lon": -70.966625,
+            "county_fips": "023",
+            "name": "Bridgewater",
+            "median_income": "40000",
+            "state_fips": "25",
+            "tract_fips": "561200",
+            "lat": 41.986355
+        },
+        "World Trade Center Station": {
+            "lon": -71.0425329208,
+            "county_fips": "025",
+            "name": "World Trade Center Station",
+            "median_income": "81627",
+            "state_fips": "25",
+            "tract_fips": "060600",
+            "lat": 42.3488392978
+        },
+        "Charles/Massachusetts General Hospital Station": {
+            "lon": -71.0720801353,
+            "county_fips": "025",
+            "name": "Charles/Massachusetts General Hospital Station",
+            "median_income": "66944",
+            "state_fips": "25",
+            "tract_fips": "020200",
+            "lat": 42.3612710899
+        },
+        "Southborough": {
+            "lon": -71.523621,
+            "county_fips": "027",
+            "name": "Southborough",
+            "median_income": "164393",
+            "state_fips": "25",
+            "tract_fips": "741102",
+            "lat": 42.267518
+        },
+        "Winchester Center": {
+            "lon": -71.137041,
+            "county_fips": "017",
+            "name": "Winchester Center",
+            "median_income": "144276",
+            "state_fips": "25",
+            "tract_fips": "338500",
+            "lat": 42.45265
+        },
+        "Davis Station": {
+            "lon": -71.1220550537,
+            "county_fips": "017",
+            "name": "Davis Station",
+            "median_income": "88229",
+            "state_fips": "25",
+            "tract_fips": "350900",
+            "lat": 42.3960638548
+        },
+        "Swampscott": {
+            "lon": -70.922036,
+            "county_fips": "009",
+            "name": "Swampscott",
+            "median_income": "71845",
+            "state_fips": "25",
+            "tract_fips": "202102",
+            "lat": 42.473739
+        },
+        "Canton Junction": {
+            "lon": -71.153374,
+            "county_fips": "021",
+            "name": "Canton Junction",
+            "median_income": "81961",
+            "state_fips": "25",
+            "tract_fips": "415102",
+            "lat": 42.163423
+        },
+        "Needham Center": {
+            "lon": -71.238089,
+            "county_fips": "021",
+            "name": "Needham Center",
+            "median_income": "113023",
+            "state_fips": "25",
+            "tract_fips": "403400",
+            "lat": 42.280274
+        },
+        "Brandon Hall Station": {
+            "lon": -71.128526,
+            "county_fips": "021",
+            "name": "Brandon Hall Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.340072
+        },
+        "Oak Grove Station": {
+            "lon": -71.071189642,
+            "county_fips": "017",
+            "name": "Oak Grove Station",
+            "median_income": "71531",
+            "state_fips": "25",
+            "tract_fips": "341101",
+            "lat": 42.4353430165
+        },
+        "Fenway Station": {
+            "lon": -71.1043953896,
+            "county_fips": "025",
+            "name": "Fenway Station",
+            "median_income": "31389",
+            "state_fips": "25",
+            "tract_fips": "010204",
+            "lat": 42.3452869056
+        },
+        "Highland": {
+            "lon": -71.1547,
+            "county_fips": "025",
+            "name": "Highland",
+            "median_income": "102328",
+            "state_fips": "25",
+            "tract_fips": "130200",
+            "lat": 42.284869
+        },
+        "Boylston Street Station": {
+            "lon": -71.0648703575,
+            "county_fips": "025",
+            "name": "Boylston Street Station",
+            "median_income": "14823",
+            "state_fips": "25",
+            "tract_fips": "070200",
+            "lat": 42.3523914894
+        },
+        "Museum of Fine Arts Station": {
+            "lon": -71.0954797268,
+            "county_fips": "025",
+            "name": "Museum of Fine Arts Station",
+            "median_income": "13580",
+            "state_fips": "25",
+            "tract_fips": "010405",
+            "lat": 42.3377215443
+        },
+        "West Natick": {
+            "lon": -71.390548,
+            "county_fips": "017",
+            "name": "West Natick",
+            "median_income": "77907",
+            "state_fips": "25",
+            "tract_fips": "382601",
+            "lat": 42.281855
+        },
+        "South Attleboro": {
+            "lon": -71.354621,
+            "county_fips": "005",
+            "name": "South Attleboro",
+            "median_income": "66936",
+            "state_fips": "25",
+            "tract_fips": "631100",
+            "lat": 41.897943
+        },
+        "Silver Line Way Station": {
+            "lon": -71.0371685028,
+            "county_fips": "025",
+            "name": "Silver Line Way Station",
+            "median_income": "81627",
+            "state_fips": "25",
+            "tract_fips": "060600",
+            "lat": 42.3480146533
+        },
+        "Hastings": {
+            "lon": -71.289203,
+            "county_fips": "017",
+            "name": "Hastings",
+            "median_income": "182250",
+            "state_fips": "25",
+            "tract_fips": "367100",
+            "lat": 42.385755
+        },
+        "Woodland Station": {
+            "lon": -71.2449216843,
+            "county_fips": "017",
+            "name": "Woodland Station",
+            "median_income": "123235",
+            "state_fips": "25",
+            "tract_fips": "374800",
+            "lat": 42.3336847265
+        },
+        "South Weymouth": {
+            "lon": -70.95249,
+            "county_fips": "021",
+            "name": "South Weymouth",
+            "median_income": "58048",
+            "state_fips": "25",
+            "tract_fips": "422200",
+            "lat": 42.153747
+        },
+        "Newton Highland Station": {
+            "lon": -71.2061798573,
+            "county_fips": "017",
+            "name": "Newton Highland Station",
+            "median_income": "116326",
+            "state_fips": "25",
+            "tract_fips": "374200",
+            "lat": 42.3216996408
+        },
+        "Kent Street Station": {
+            "lon": -71.114596,
+            "county_fips": "021",
+            "name": "Kent Street Station",
+            "median_income": "72195",
+            "state_fips": "25",
+            "tract_fips": "400100",
+            "lat": 42.343997
+        },
+        "St. Marys Street Station": {
+            "lon": -71.1068093777,
+            "county_fips": "021",
+            "name": "St. Marys Street Station",
+            "median_income": "72195",
+            "state_fips": "25",
+            "tract_fips": "400100",
+            "lat": 42.3461353747
+        },
+        "Sullivan Square Station (Cambridge Street Exit)": {
+            "lon": -71.0771012306,
+            "county_fips": "025",
+            "name": "Sullivan Square Station (Cambridge Street Exit)",
+            "median_income": "116042",
+            "state_fips": "25",
+            "tract_fips": "040600",
+            "lat": 42.3830128834
+        },
+        "Boston College Station": {
+            "lon": -71.1661934853,
+            "county_fips": "025",
+            "name": "Boston College Station",
+            "median_income": "46205",
+            "state_fips": "25",
+            "tract_fips": "000502",
+            "lat": 42.3399420801
+        },
+        "Newtonville": {
+            "lon": -71.207338,
+            "county_fips": "017",
+            "name": "Newtonville",
+            "median_income": "103988",
+            "state_fips": "25",
+            "tract_fips": "373300",
+            "lat": 42.351603
+        },
+        "West Hingham Station": {
+            "lon": -70.9032,
+            "county_fips": "023",
+            "name": "West Hingham Station",
+            "median_income": "101023",
+            "state_fips": "25",
+            "tract_fips": "501102",
+            "lat": 42.2367
+        },
+        "Dean Road Station": {
+            "lon": -71.1419677734,
+            "county_fips": "021",
+            "name": "Dean Road Station",
+            "median_income": "138506",
+            "state_fips": "25",
+            "tract_fips": "400600",
+            "lat": 42.337705683
+        },
+        "(Logan) Airport Station": {
+            "lon": -71.035194397,
+            "county_fips": "025",
+            "name": "(Logan) Airport Station",
+            "median_income": "56875",
+            "state_fips": "25",
+            "tract_fips": "050600",
+            "lat": 42.3727334327
+        },
+        "East Weymouth Station": {
+            "lon": -70.9214,
+            "county_fips": "021",
+            "name": "East Weymouth Station",
+            "median_income": "85690",
+            "state_fips": "25",
+            "tract_fips": "422600",
+            "lat": 42.2191
+        },
+        "State Station": {
+            "lon": -71.057795,
+            "county_fips": "025",
+            "name": "State Station",
+            "median_income": "122309",
+            "state_fips": "25",
+            "tract_fips": "030300",
+            "lat": 42.358897
+        },
+        "Capen Street Station": {
+            "lon": -71.0872292519,
+            "county_fips": "021",
+            "name": "Capen Street Station",
+            "median_income": "105017",
+            "state_fips": "25",
+            "tract_fips": "416300",
+            "lat": 42.2675678013
+        },
+        "Warren Street Station": {
+            "lon": -71.140294075,
+            "county_fips": "025",
+            "name": "Warren Street Station",
+            "median_income": "51354",
+            "state_fips": "25",
+            "tract_fips": "000701",
+            "lat": 42.3484745525
+        },
+        "Fairbanks Station": {
+            "lon": -71.1313462257,
+            "county_fips": "021",
+            "name": "Fairbanks Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.3396090047
+        },
+        "Bellevue": {
+            "lon": -71.14606,
+            "county_fips": "025",
+            "name": "Bellevue",
+            "median_income": "76414",
+            "state_fips": "25",
+            "tract_fips": "110607",
+            "lat": 42.287138
+        },
+        "Forge Park/Route 495": {
+            "lon": -71.430342,
+            "county_fips": "021",
+            "name": "Forge Park/Route 495",
+            "median_income": "91941",
+            "state_fips": "25",
+            "tract_fips": "442102",
+            "lat": 42.090704
+        },
+        "Chelsea": {
+            "lon": -71.034803,
+            "county_fips": "025",
+            "name": "Chelsea",
+            "median_income": "37524",
+            "state_fips": "25",
+            "tract_fips": "160400",
+            "lat": 42.39564
+        },
+        "Boston University Central Station": {
+            "lon": -71.1061871052,
+            "county_fips": "025",
+            "name": "Boston University Central Station",
+            "median_income": "14953",
+            "state_fips": "25",
+            "tract_fips": "010103",
+            "lat": 42.3499335211
+        },
+        "Science Park Station": {
+            "lon": -71.0681641102,
+            "county_fips": "025",
+            "name": "Science Park Station",
+            "median_income": "74000",
+            "state_fips": "25",
+            "tract_fips": "020301",
+            "lat": 42.3666775177
+        },
+        "Wonderland Station": {
+            "lon": -70.992144,
+            "county_fips": "025",
+            "name": "Wonderland Station",
+            "median_income": "44653",
+            "state_fips": "25",
+            "tract_fips": "170501",
+            "lat": 42.414246
+        },
+        "Middleborough/Lakeville": {
+            "lon": -70.918444,
+            "county_fips": "023",
+            "name": "Middleborough/Lakeville",
+            "median_income": "92396",
+            "state_fips": "25",
+            "tract_fips": "540101",
+            "lat": 41.87821
+        },
+        "Greenwood": {
+            "lon": -71.067233,
+            "county_fips": "017",
+            "name": "Greenwood",
+            "median_income": "101159",
+            "state_fips": "25",
+            "tract_fips": "335400",
+            "lat": 42.483473
+        },
+        "Riverside Station": {
+            "lon": -71.2517344952,
+            "county_fips": "017",
+            "name": "Riverside Station",
+            "median_income": "123235",
+            "state_fips": "25",
+            "tract_fips": "374800",
+            "lat": 42.3371108832
+        },
+        "Fairmount": {
+            "lon": -71.11927,
+            "county_fips": "025",
+            "name": "Fairmount",
+            "median_income": "54640",
+            "state_fips": "25",
+            "tract_fips": "140300",
+            "lat": 42.253638
+        },
+        "Lawrence": {
+            "lon": -71.159797,
+            "county_fips": "009",
+            "name": "Lawrence",
+            "median_income": "27823",
+            "state_fips": "25",
+            "tract_fips": "251600",
+            "lat": 42.700094
+        },
+        "Savin Hill Station": {
+            "lon": -71.0532295704,
+            "county_fips": "025",
+            "name": "Savin Hill Station",
+            "median_income": "63938",
+            "state_fips": "25",
+            "tract_fips": "091001",
+            "lat": 42.311307017
+        },
+        "Braintree Station": {
+            "lon": -71.0013341904,
+            "county_fips": "021",
+            "name": "Braintree Station",
+            "median_income": "93117",
+            "state_fips": "25",
+            "tract_fips": "419100",
+            "lat": 42.2087804241
+        },
+        "Waban Station": {
+            "lon": -71.2311780453,
+            "county_fips": "017",
+            "name": "Waban Station",
+            "median_income": "170500",
+            "state_fips": "25",
+            "tract_fips": "374400",
+            "lat": 42.3262607466
+        },
+        "Northeastern University Station": {
+            "lon": -71.0888922215,
+            "county_fips": "025",
+            "name": "Northeastern University Station",
+            "median_income": "13580",
+            "state_fips": "25",
+            "tract_fips": "010405",
+            "lat": 42.3403227355
+        },
+        "Herald Street Station": {
+            "lon": -71.064842,
+            "county_fips": "025",
+            "name": "Herald Street Station",
+            "median_income": "15484",
+            "state_fips": "25",
+            "tract_fips": "070402",
+            "lat": 42.346377
+        },
+        "Wollaston Station": {
+            "lon": -71.0194015503,
+            "county_fips": "021",
+            "name": "Wollaston Station",
+            "median_income": "64077",
+            "state_fips": "25",
+            "tract_fips": "417601",
+            "lat": 42.2656146622
+        },
+        "Tappan Street Station": {
+            "lon": -71.138792038,
+            "county_fips": "021",
+            "name": "Tappan Street Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.3384670186
+        },
+        "Forest Hills Station": {
+            "lon": -71.113411,
+            "county_fips": "025",
+            "name": "Forest Hills Station",
+            "median_income": "58935",
+            "state_fips": "25",
+            "tract_fips": "110103",
+            "lat": 42.300362
+        },
+        "21 Dry Dock Avenue": {
+            "lon": -71.031036,
+            "county_fips": "025",
+            "name": "21 Dry Dock Avenue",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.344626
+        },
+        "Back Bay Station": {
+            "lon": -71.0760390759,
+            "county_fips": "025",
+            "name": "Back Bay Station",
+            "median_income": "61190",
+            "state_fips": "25",
+            "tract_fips": "070700",
+            "lat": 42.3472772215
+        },
+        "South Station": {
+            "lon": -71.0549998283,
+            "county_fips": "025",
+            "name": "South Station",
+            "median_income": "47609",
+            "state_fips": "25",
+            "tract_fips": "070101",
+            "lat": 42.351709611
+        },
+        "Wyoming Hill": {
+            "lon": -71.069518,
+            "county_fips": "017",
+            "name": "Wyoming Hill",
+            "median_income": "65000",
+            "state_fips": "25",
+            "tract_fips": "336401",
+            "lat": 42.452097
+        },
+        "Uphams Corner": {
+            "lon": -71.069072,
+            "county_fips": "025",
+            "name": "Uphams Corner",
+            "median_income": "27708",
+            "state_fips": "25",
+            "tract_fips": "091400",
+            "lat": 42.31867
+        },
+        "Sullivan Square Station (Broadway Exit)": {
+            "lon": -71.0770797729,
+            "county_fips": "025",
+            "name": "Sullivan Square Station (Broadway Exit)",
+            "median_income": "116042",
+            "state_fips": "25",
+            "tract_fips": "040600",
+            "lat": 42.3857548427
+        },
+        "Tufts (formerly New England) Medical Center Station": {
+            "lon": -71.063795,
+            "county_fips": "025",
+            "name": "Tufts (formerly New England) Medical Center Station",
+            "median_income": "14823",
+            "state_fips": "25",
+            "tract_fips": "070200",
+            "lat": 42.349873
+        },
+        "Morton Street": {
+            "lon": -71.085475,
+            "county_fips": "025",
+            "name": "Morton Street",
+            "median_income": "45685",
+            "state_fips": "25",
+            "tract_fips": "100300",
+            "lat": 42.280994
+        },
+        "JFK / UMass Station": {
+            "lon": -71.0523927212,
+            "county_fips": "025",
+            "name": "JFK / UMass Station",
+            "median_income": "63938",
+            "state_fips": "25",
+            "tract_fips": "091001",
+            "lat": 42.3214378629
+        },
+        "306 Northern Avenue": {
+            "lon": -71.035882,
+            "county_fips": "025",
+            "name": "306 Northern Avenue",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.34769
+        },
+        "Quincy Adams Station": {
+            "lon": -71.0071492195,
+            "county_fips": "021",
+            "name": "Quincy Adams Station",
+            "median_income": "36979",
+            "state_fips": "25",
+            "tract_fips": "418004",
+            "lat": 42.2327515704
+        },
+        "South Street Station": {
+            "lon": -71.1577820778,
+            "county_fips": "025",
+            "name": "South Street Station",
+            "median_income": "46205",
+            "state_fips": "25",
+            "tract_fips": "000502",
+            "lat": 42.3395772832
+        },
+        "Downtown Crossing Station": {
+            "lon": -71.060788,
+            "county_fips": "025",
+            "name": "Downtown Crossing Station",
+            "median_income": "47609",
+            "state_fips": "25",
+            "tract_fips": "070101",
+            "lat": 42.355295
+        },
+        "Roxbury Crossing Station": {
+            "lon": -71.0954046249,
+            "county_fips": "025",
+            "name": "Roxbury Crossing Station",
+            "median_income": "46919",
+            "state_fips": "25",
+            "tract_fips": "081400",
+            "lat": 42.3315274209
+        },
+        "Valley Road Station": {
+            "lon": -71.0830664635,
+            "county_fips": "021",
+            "name": "Valley Road Station",
+            "median_income": "105017",
+            "state_fips": "25",
+            "tract_fips": "416300",
+            "lat": 42.2678933186
+        },
+        "Massachusetts Avenue Station (Orange)": {
+            "lon": -71.0832166672,
+            "county_fips": "025",
+            "name": "Massachusetts Avenue Station (Orange)",
+            "median_income": "56589",
+            "state_fips": "25",
+            "tract_fips": "070800",
+            "lat": 42.3415519196
+        },
+        "Mission Park Station": {
+            "lon": -71.1070775986,
+            "county_fips": "025",
+            "name": "Mission Park Station",
+            "median_income": "28932",
+            "state_fips": "25",
+            "tract_fips": "081001",
+            "lat": 42.333224719
+        },
+        "Norwood Depot": {
+            "lon": -71.196784,
+            "county_fips": "021",
+            "name": "Norwood Depot",
+            "median_income": "69722",
+            "state_fips": "25",
+            "tract_fips": "413200",
+            "lat": 42.195668
+        },
+        "Lenox Street Station": {
+            "lon": -71.0788178444,
+            "county_fips": "025",
+            "name": "Lenox Street Station",
+            "median_income": "13446",
+            "state_fips": "25",
+            "tract_fips": "080401",
+            "lat": 42.3350488668
+        },
+        "Terminal C": {
+            "lon": -71.020467,
+            "county_fips": "025",
+            "name": "Terminal C",
+            "median_income": "76705",
+            "state_fips": "25",
+            "tract_fips": "981300",
+            "lat": 42.370242
+        },
+        "Ruggles Station": {
+            "lon": -71.0905230045,
+            "county_fips": "025",
+            "name": "Ruggles Station",
+            "median_income": "15994",
+            "state_fips": "25",
+            "tract_fips": "080801",
+            "lat": 42.3356674788
+        },
+        "Terminal A": {
+            "lon": -71.021494,
+            "county_fips": "025",
+            "name": "Terminal A",
+            "median_income": "76705",
+            "state_fips": "25",
+            "tract_fips": "981300",
+            "lat": 42.364422
+        },
+        "Windsor Gardens": {
+            "lon": -71.220704,
+            "county_fips": "021",
+            "name": "Windsor Gardens",
+            "median_income": "72373",
+            "state_fips": "25",
+            "tract_fips": "413402",
+            "lat": 42.172192
+        },
+        "Littleton/Route 495": {
+            "lon": -71.502643,
+            "county_fips": "017",
+            "name": "Littleton/Route 495",
+            "median_income": "97563",
+            "state_fips": "25",
+            "tract_fips": "324101",
+            "lat": 42.519236
+        },
+        "Ayer": {
+            "lon": -71.590117,
+            "county_fips": "017",
+            "name": "Ayer",
+            "median_income": "54899",
+            "state_fips": "25",
+            "tract_fips": "325100",
+            "lat": 42.560047
+        },
+        "Andover": {
+            "lon": -71.144156,
+            "county_fips": "009",
+            "name": "Andover",
+            "median_income": "71603",
+            "state_fips": "25",
+            "tract_fips": "254200",
+            "lat": 42.657798
+        },
+        "Copley Station": {
+            "lon": -71.078089,
+            "county_fips": "025",
+            "name": "Copley Station",
+            "median_income": "90068",
+            "state_fips": "25",
+            "tract_fips": "010702",
+            "lat": 42.349962
+        },
+        "Roslindale Village": {
+            "lon": -71.12961,
+            "county_fips": "025",
+            "name": "Roslindale Village",
+            "median_income": "76414",
+            "state_fips": "25",
+            "tract_fips": "110607",
+            "lat": 42.287206
+        },
+        "Natick": {
+            "lon": -71.34764,
+            "county_fips": "017",
+            "name": "Natick",
+            "median_income": "82574",
+            "state_fips": "25",
+            "tract_fips": "382500",
+            "lat": 42.285227
+        },
+        "Allston Street Station": {
+            "lon": -71.1377835274,
+            "county_fips": "025",
+            "name": "Allston Street Station",
+            "median_income": "51354",
+            "state_fips": "25",
+            "tract_fips": "000701",
+            "lat": 42.3484428354
+        },
+        "Eliot Station": {
+            "lon": -71.2169194221,
+            "county_fips": "017",
+            "name": "Eliot Station",
+            "median_income": "116326",
+            "state_fips": "25",
+            "tract_fips": "374200",
+            "lat": 42.3191928749
+        },
+        "Sharon": {
+            "lon": -71.183213,
+            "county_fips": "021",
+            "name": "Sharon",
+            "median_income": "93229",
+            "state_fips": "25",
+            "tract_fips": "414300",
+            "lat": 42.124804
+        },
+        "Washington Square Station": {
+            "lon": -71.1354231834,
+            "county_fips": "021",
+            "name": "Washington Square Station",
+            "median_income": "69402",
+            "state_fips": "25",
+            "tract_fips": "400400",
+            "lat": 42.339339371
+        },
+        "Terminal B Stop 1": {
+            "lon": -71.018588,
+            "county_fips": "025",
+            "name": "Terminal B Stop 1",
+            "median_income": "76705",
+            "state_fips": "25",
+            "tract_fips": "981300",
+            "lat": 42.361325
+        },
+        "Terminal B Stop 2": {
+            "lon": -71.01882,
+            "county_fips": "025",
+            "name": "Terminal B Stop 2",
+            "median_income": "76705",
+            "state_fips": "25",
+            "tract_fips": "981300",
+            "lat": 42.364441
+        },
+        "Maverick Station": {
+            "lon": -71.039926,
+            "county_fips": "025",
+            "name": "Maverick Station",
+            "median_income": "15907",
+            "state_fips": "25",
+            "tract_fips": "050300",
+            "lat": 42.36886
+        },
+        "Stoughton": {
+            "lon": -71.10309,
+            "county_fips": "021",
+            "name": "Stoughton",
+            "median_income": "57083",
+            "state_fips": "25",
+            "tract_fips": "456401",
+            "lat": 42.123818
+        },
+        "Silver Hill": {
+            "lon": -71.302357,
+            "county_fips": "017",
+            "name": "Silver Hill",
+            "median_income": "182250",
+            "state_fips": "25",
+            "tract_fips": "367100",
+            "lat": 42.395625
+        },
+        "Grafton": {
+            "lon": -71.684614,
+            "county_fips": "027",
+            "name": "Grafton",
+            "median_income": "67938",
+            "state_fips": "25",
+            "tract_fips": "761300",
+            "lat": 42.246291
+        },
+        "Wellesley Hills": {
+            "lon": -71.276769,
+            "county_fips": "021",
+            "name": "Wellesley Hills",
+            "median_income": "150156",
+            "state_fips": "25",
+            "tract_fips": "404202",
+            "lat": 42.310027
+        },
+        "Griggs Street / Long Avenue Station": {
+            "lon": -71.1341571808,
+            "county_fips": "025",
+            "name": "Griggs Street / Long Avenue Station",
+            "median_income": "44774",
+            "state_fips": "25",
+            "tract_fips": "000704",
+            "lat": 42.3487124302
+        },
+        "Cohasset Station": {
+            "lon": -70.8356,
+            "county_fips": "021",
+            "name": "Cohasset Station",
+            "median_income": "117831",
+            "state_fips": "25",
+            "tract_fips": "423100",
+            "lat": 42.2418
+        },
+        "South Acton": {
+            "lon": -71.455322,
+            "county_fips": "017",
+            "name": "South Acton",
+            "median_income": "118333",
+            "state_fips": "25",
+            "tract_fips": "363104",
+            "lat": 42.461575
+        },
+        "Fields Corner Station": {
+            "lon": -71.0607075691,
+            "county_fips": "025",
+            "name": "Fields Corner Station",
+            "median_income": "45848",
+            "state_fips": "25",
+            "tract_fips": "092200",
+            "lat": 42.3002619819
+        },
+        "Northern Avenue at Harbor Street": {
+            "lon": -71.0352373123,
+            "county_fips": "025",
+            "name": "Northern Avenue at Harbor Street",
+            "median_income": "81627",
+            "state_fips": "25",
+            "tract_fips": "060600",
+            "lat": 42.3466190762
+        },
+        "Symphony Station": {
+            "lon": -71.085095,
+            "county_fips": "025",
+            "name": "Symphony Station",
+            "median_income": "16735",
+            "state_fips": "25",
+            "tract_fips": "010404",
+            "lat": 42.342697
+        },
+        "Ashmont Station": {
+            "lon": -71.064219,
+            "county_fips": "025",
+            "name": "Ashmont Station",
+            "median_income": "60813",
+            "state_fips": "25",
+            "tract_fips": "100800",
+            "lat": 42.285924
+        },
+        "Chinatown Station": {
+            "lon": -71.062892,
+            "county_fips": "025",
+            "name": "Chinatown Station",
+            "median_income": "47609",
+            "state_fips": "25",
+            "tract_fips": "070101",
+            "lat": 42.352228
+        },
+        "Auburndale": {
+            "lon": -71.246658,
+            "county_fips": "017",
+            "name": "Auburndale",
+            "median_income": "123235",
+            "state_fips": "25",
+            "tract_fips": "374800",
+            "lat": 42.346087
+        },
+        "Ipswich": {
+            "lon": -70.840024,
+            "county_fips": "009",
+            "name": "Ipswich",
+            "median_income": "72047",
+            "state_fips": "25",
+            "tract_fips": "223200",
+            "lat": 42.678355
+        },
+        "Kendal Green": {
+            "lon": -71.282411,
+            "county_fips": "017",
+            "name": "Kendal Green",
+            "median_income": "182250",
+            "state_fips": "25",
+            "tract_fips": "367100",
+            "lat": 42.37897
+        },
+        "88 Black Falcon Avenue": {
+            "lon": -71.0272121429,
+            "county_fips": "025",
+            "name": "88 Black Falcon Avenue",
+            "median_income": null,
+            "state_fips": "25",
+            "tract_fips": "981202",
+            "lat": 42.3439388471
+        },
+        "Lincoln": {
+            "lon": -71.325344,
+            "county_fips": "017",
+            "name": "Lincoln",
+            "median_income": "149890",
+            "state_fips": "25",
+            "tract_fips": "360200",
+            "lat": 42.414229
+        },
+        "North Scituate Station": {
+            "lon": -70.7877,
+            "county_fips": "023",
+            "name": "North Scituate Station",
+            "median_income": "97583",
+            "state_fips": "25",
+            "tract_fips": "505101",
+            "lat": 42.2199
+        },
+        "Pleasant Street Station": {
+            "lon": -71.1182141304,
+            "county_fips": "025",
+            "name": "Pleasant Street Station",
+            "median_income": "28304",
+            "state_fips": "25",
+            "tract_fips": "000803",
+            "lat": 42.3513448824
+        },
+        "Norfolk": {
+            "lon": -71.325217,
+            "county_fips": "021",
+            "name": "Norfolk",
+            "median_income": "126750",
+            "state_fips": "25",
+            "tract_fips": "409101",
+            "lat": 42.120694
+        },
+        "Wedgemere": {
+            "lon": -71.140909,
+            "county_fips": "017",
+            "name": "Wedgemere",
+            "median_income": "165341",
+            "state_fips": "25",
+            "tract_fips": "338400",
+            "lat": 42.445284
+        },
+        "Belmont Center": {
+            "lon": -71.174499,
+            "county_fips": "017",
+            "name": "Belmont Center",
+            "median_income": "99737",
+            "state_fips": "25",
+            "tract_fips": "357100",
+            "lat": 42.39842
+        },
+        "Campello": {
+            "lon": -71.01246,
+            "county_fips": "023",
+            "name": "Campello",
+            "median_income": "41419",
+            "state_fips": "25",
+            "tract_fips": "511600",
+            "lat": 42.060038
+        },
+        "Norwood Central": {
+            "lon": -71.199748,
+            "county_fips": "021",
+            "name": "Norwood Central",
+            "median_income": "66768",
+            "state_fips": "25",
+            "tract_fips": "413401",
+            "lat": 42.190776
+        },
+        "Prudential Station": {
+            "lon": -71.0815858841,
+            "county_fips": "025",
+            "name": "Prudential Station",
+            "median_income": "75547",
+            "state_fips": "25",
+            "tract_fips": "010600",
+            "lat": 42.3456358101
+        },
+        "North Leominster": {
+            "lon": -71.739402,
+            "county_fips": "027",
+            "name": "North Leominster",
+            "median_income": "88594",
+            "state_fips": "25",
+            "tract_fips": "709501",
+            "lat": 42.540577
+        },
+        "Lowell": {
+            "lon": -71.314916,
+            "county_fips": "017",
+            "name": "Lowell",
+            "median_income": "25288",
+            "state_fips": "25",
+            "tract_fips": "311900",
+            "lat": 42.638402
+        },
+        "Rowley": {
+            "lon": -70.859436,
+            "county_fips": "009",
+            "name": "Rowley",
+            "median_income": "79449",
+            "state_fips": "25",
+            "tract_fips": "270100",
+            "lat": 42.725351
+        },
+        "Chestnut Hill Station": {
+            "lon": -71.1655175686,
+            "county_fips": "017",
+            "name": "Chestnut Hill Station",
+            "median_income": "137460",
+            "state_fips": "25",
+            "tract_fips": "373600",
+            "lat": 42.3266732129
+        },
+        "Endicott": {
+            "lon": -71.160413,
+            "county_fips": "021",
+            "name": "Endicott",
+            "median_income": "79189",
+            "state_fips": "25",
+            "tract_fips": "402400",
+            "lat": 42.232881
+        },
+        "Holbrook/Randolph": {
+            "lon": -71.027518,
+            "county_fips": "021",
+            "name": "Holbrook/Randolph",
+            "median_income": "55556",
+            "state_fips": "25",
+            "tract_fips": "421100",
+            "lat": 42.155314
+        },
+        "Heath Street Station": {
+            "lon": -71.1105966568,
+            "county_fips": "025",
+            "name": "Heath Street Station",
+            "median_income": "72746",
+            "state_fips": "25",
+            "tract_fips": "120700",
+            "lat": 42.3287592992
+        },
+        "Reservoir Station": {
+            "lon": -71.1494028568,
+            "county_fips": "021",
+            "name": "Reservoir Station",
+            "median_income": "138506",
+            "state_fips": "25",
+            "tract_fips": "400600",
+            "lat": 42.3349378332
+        },
+        "Plimptonville": {
+            "lon": -71.236125,
+            "county_fips": "021",
+            "name": "Plimptonville",
+            "median_income": "75750",
+            "state_fips": "25",
+            "tract_fips": "411200",
+            "lat": 42.159123
+        },
+        "Brookline Village Station": {
+            "lon": -71.1181175709,
+            "county_fips": "021",
+            "name": "Brookline Village Station",
+            "median_income": "135481",
+            "state_fips": "25",
+            "tract_fips": "400700",
+            "lat": 42.3320429602
+        },
+        "Longwood Station": {
+            "lon": -71.1108970642,
+            "county_fips": "021",
+            "name": "Longwood Station",
+            "median_income": "72195",
+            "state_fips": "25",
+            "tract_fips": "400100",
+            "lat": 42.3404496202
+        },
+        "Yawkey": {
+            "lon": -71.098937,
+            "county_fips": "025",
+            "name": "Yawkey",
+            "median_income": "35303",
+            "state_fips": "25",
+            "tract_fips": "010203",
+            "lat": 42.346796
+        },
+        "Abington": {
+            "lon": -70.935296,
+            "county_fips": "023",
+            "name": "Abington",
+            "median_income": "82587",
+            "state_fips": "25",
+            "tract_fips": "520100",
+            "lat": 42.108034
+        },
+        "Government Center Station": {
+            "lon": -71.059895,
+            "county_fips": "025",
+            "name": "Government Center Station",
+            "median_income": "122309",
+            "state_fips": "25",
+            "tract_fips": "030300",
+            "lat": 42.359297
+        },
+        "Central Avenue Station": {
+            "lon": -71.0732495785,
+            "county_fips": "021",
+            "name": "Central Avenue Station",
+            "median_income": "105017",
+            "state_fips": "25",
+            "tract_fips": "416300",
+            "lat": 42.2700131096
+        },
+        "Ashland": {
+            "lon": -71.478813,
+            "county_fips": "017",
+            "name": "Ashland",
+            "median_income": "106741",
+            "state_fips": "25",
+            "tract_fips": "385100",
+            "lat": 42.261694
+        },
+        "Haymarket Station": {
+            "lon": -71.058996,
+            "county_fips": "025",
+            "name": "Haymarket Station",
+            "median_income": "122309",
+            "state_fips": "25",
+            "tract_fips": "030300",
+            "lat": 42.362498
+        },
+        "Mishawum": {
+            "lon": -71.137511,
+            "county_fips": "017",
+            "name": "Mishawum",
+            "median_income": "72766",
+            "state_fips": "25",
+            "tract_fips": "333600",
+            "lat": 42.503595
+        },
+        "Beverly Farms": {
+            "lon": -70.812745,
+            "county_fips": "009",
+            "name": "Beverly Farms",
+            "median_income": "100409",
+            "state_fips": "25",
+            "tract_fips": "217600",
+            "lat": 42.561403
+        }
+    },
+    "routes": {
+        "0_Red Line": {
+            "color": "red",
+            "stop_ids": [
+                "Alewife Station",
+                "Davis Station",
+                "Porter Square Station",
+                "Harvard Square Station",
+                "Central Station",
+                "Kendall/MIT Station",
+                "Charles/Massachusetts General Hospital Station",
+                "Park Street Station",
+                "Downtown Crossing Station",
+                "South Station",
+                "Broadway Station",
+                "Andrew Station",
+                "JFK / UMass Station"
+            ],
+            "name": "Red Line"
+        },
+        "15_Silver Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "South Station",
+                "Chinatown Station"
+            ],
+            "name": "Silver Line"
+        },
+        "18_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Readville",
+                "Fairmount",
+                "Morton Street",
+                "Uphams Corner",
+                "South Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "23_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Hyde Park",
+                "Ruggles Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "11_Orange Line": {
+            "color": "orange",
+            "stop_ids": [
+                "Oak Grove Station",
+                "Malden Center Station",
+                "Wellington Station",
+                "Sullivan Square Station (Broadway Exit)",
+                "Sullivan Square Station (Cambridge Street Exit)",
+                "Community College Station",
+                "North Station",
+                "Haymarket Station",
+                "State Station",
+                "Downtown Crossing Station",
+                "Chinatown Station",
+                "Tufts (formerly New England) Medical Center Station",
+                "Back Bay Station",
+                "Massachusetts Avenue Station (Orange)",
+                "Ruggles Station",
+                "Roxbury Crossing Station",
+                "Jackson Square Station",
+                "Stony Brook Station",
+                "Green Street Station",
+                "Forest Hills Station"
+            ],
+            "name": "Orange Line"
+        },
+        "13_Silver Line": {
+            "color": "black",
+            "stop_ids": [
+                "Silver Line Way Station",
+                "Terminal A",
+                "Terminal B Stop 1",
+                "Terminal B Stop 2",
+                "Terminal C",
+                "Terminal C",
+                "Silver Line Way Station"
+            ],
+            "name": "Silver Line"
+        },
+        "3_Red Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "JFK / UMass Station",
+                "North Quincy Station",
+                "Wollaston Station",
+                "Quincy Center Station",
+                "Quincy Adams Station",
+                "Braintree Station"
+            ],
+            "name": "Red Line"
+        },
+        "12_Silver Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "South Station",
+                "Courthouse Station",
+                "World Trade Center Station",
+                "Silver Line Way Station"
+            ],
+            "name": "Silver Line"
+        },
+        "29_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Ballardvale",
+                "Wilmington"
+            ],
+            "name": "Commuter Rail"
+        },
+        "31_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Beverly Depot",
+                "Salem",
+                "Swampscott",
+                "Lynn",
+                "River Works",
+                "Chelsea",
+                "North Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "10_Blue Line": {
+            "color": "blue",
+            "stop_ids": [
+                "Bowdoin Station",
+                "Government Center Station",
+                "State Station",
+                "Aquarium Station",
+                "Maverick Station",
+                "(Logan) Airport Station",
+                "Wood Island Station",
+                "Orient Heights Station",
+                "Suffolk Downs Station",
+                "Beachmont Station",
+                "Revere Beach Station",
+                "Wonderland Station"
+            ],
+            "name": "Blue Line"
+        },
+        "6_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Kenmore Station",
+                "Blandford Street Station",
+                "Boston University East Station",
+                "Boston University Central Station",
+                "Boston University West Station",
+                "St. Paul Street Station (B)",
+                "Pleasant Street Station",
+                "Babcock Street Station",
+                "Packards Corner Station",
+                "Harvard Avenue Station",
+                "Griggs Street / Long Avenue Station",
+                "Allston Street Station",
+                "Warren Street Station",
+                "Washington Street Station",
+                "Sutherland Street Station",
+                "Chiswick Road Station",
+                "Chestnut Hill Avenue Station",
+                "South Street Station",
+                "Boston College Station"
+            ],
+            "name": "Green Line"
+        },
+        "20_Commuter Rail": {
+            "color": "green",
+            "stop_ids": [
+                "Worcester / Union",
+                "Grafton",
+                "Westborough",
+                "Southborough",
+                "Ashland",
+                "Framingham",
+                "West Natick",
+                "Natick",
+                "Wellesley Square",
+                "Wellesley Hills",
+                "Wellesley Farms",
+                "Auburndale",
+                "West Newton",
+                "Newtonville",
+                "Yawkey",
+                "Back Bay Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "28_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Lowell",
+                "North Billerica",
+                "Wilmington",
+                "Anderson/Woburn",
+                "Mishawum",
+                "Winchester Center",
+                "Wedgemere",
+                "West Medford",
+                "North Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "7_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Kenmore Station",
+                "St. Marys Street Station",
+                "Hawes Street Station",
+                "Kent Street Station",
+                "St. Paul Street Station (C)",
+                "Coolidge Corner Station",
+                "Summit Avenue (formerly Winchester Street) Station",
+                "Brandon Hall Station",
+                "Fairbanks Station",
+                "Washington Square Station",
+                "Tappan Street Station",
+                "Dean Road Station",
+                "Englewood Avenue Station",
+                "Cleveland Circle Station"
+            ],
+            "name": "Green Line"
+        },
+        "9_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Copley Station",
+                "Prudential Station",
+                "Symphony Station",
+                "Northeastern University Station",
+                "Museum of Fine Arts Station",
+                "Longwood Medical Area Station",
+                "Brigham Circle Station",
+                "Fenwood Road Station",
+                "Mission Park Station",
+                "Riverway Station",
+                "Back of the Hill Station",
+                "Heath Street Station"
+            ],
+            "name": "Green Line"
+        },
+        "30_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Needham Heights",
+                "Needham Center",
+                "Needham Junction",
+                "Hersey",
+                "West Roxbury",
+                "Highland",
+                "Bellevue",
+                "Roslindale Village",
+                "Forest Hills Station",
+                "Ruggles Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "8_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Kenmore Station",
+                "Fenway Station",
+                "Longwood Station",
+                "Brookline Village Station",
+                "Brookline Hills Station",
+                "Beaconsfield Station",
+                "Reservoir Station",
+                "Chestnut Hill Station",
+                "Newton Center Station",
+                "Newton Highland Station",
+                "Eliot Station",
+                "Waban Station",
+                "Woodland Station",
+                "Riverside Station"
+            ],
+            "name": "Green Line"
+        },
+        "35_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Providence",
+                "South Attleboro",
+                "Attleboro",
+                "Mansfield",
+                "Sharon",
+                "Canton Junction"
+            ],
+            "name": "Commuter Rail"
+        },
+        "33_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Newburyport",
+                "Rowley",
+                "Ipswich",
+                "Hamilton/Wenham",
+                "North Beverly",
+                "Beverly Depot"
+            ],
+            "name": "Commuter Rail"
+        },
+        "14_Silver Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "Silver Line Way Station",
+                "306 Northern Avenue",
+                "Northern Avenue at Harbor Street",
+                "Northern Avenue at Tide Street",
+                "21 Dry Dock Avenue",
+                "25 Dry Dock Avenue",
+                "88 Black Falcon Avenue",
+                "Design Center"
+            ],
+            "name": "Silver Line"
+        },
+        "26_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Quincy Center Station",
+                "JFK / UMass Station",
+                "South Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "38_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Braintree Station",
+                "Quincy Center Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "24_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Ruggles Station",
+                "Back Bay Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "2_Red Line": {
+            "color": "red",
+            "stop_ids": [
+                "Ashmont Station",
+                "Cedar Grove Station",
+                "Butler Station",
+                "Milton Station",
+                "Central Avenue Station",
+                "Valley Road Station",
+                "Capen Street Station",
+                "Mattapan Station"
+            ],
+            "name": "Red Line"
+        },
+        "37_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Plymouth",
+                "Kingston/Route 3",
+                "Halifax",
+                "Hanson",
+                "Whitman",
+                "Abington",
+                "South Weymouth",
+                "Braintree Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "17_Silver Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "Tufts (formerly New England) Medical Center Station",
+                "Boylston Street Station",
+                "Downtown Crossing Station",
+                "Chinatown Station"
+            ],
+            "name": "Silver Line"
+        },
+        "27_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Haverhill",
+                "Bradford",
+                "Lawrence",
+                "Andover",
+                "Ballardvale",
+                "North Wilmington",
+                "Reading",
+                "Wakefield",
+                "Greenwood",
+                "Melrose Highlands",
+                "Melrose/Cedar Park",
+                "Wyoming Hill",
+                "Malden Center",
+                "North Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "4_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Lechmere Station",
+                "Science Park Station",
+                "North Station",
+                "Haymarket Station",
+                "Government Center Station",
+                "Park Street Station",
+                "Boylston Street Station",
+                "Arlington Station",
+                "Copley Station"
+            ],
+            "name": "Green Line"
+        },
+        "1_Red Line": {
+            "color": "red",
+            "stop_ids": [
+                "JFK / UMass Station",
+                "Savin Hill Station",
+                "Fields Corner Station",
+                "Shawmut Station",
+                "Ashmont Station"
+            ],
+            "name": "Red Line"
+        },
+        "22_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Forge Park/Route 495",
+                "Franklin",
+                "Norfolk",
+                "Walpole",
+                "Plimptonville",
+                "Windsor Gardens",
+                "Norwood Central",
+                "Norwood Depot",
+                "Islington",
+                "Dedham Corporate",
+                "Endicott",
+                "Readville",
+                "Hyde Park"
+            ],
+            "name": "Commuter Rail"
+        },
+        "21_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Back Bay Station",
+                "South Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "36_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Stoughton",
+                "Canton Center",
+                "Canton Junction"
+            ],
+            "name": "Commuter Rail"
+        },
+        "34_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Canton Junction",
+                "Route 128",
+                "Hyde Park"
+            ],
+            "name": "Commuter Rail"
+        },
+        "39_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Middleborough/Lakeville",
+                "Bridgewater",
+                "Campello",
+                "Brockton",
+                "Montello",
+                "Holbrook/Randolph",
+                "Braintree Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "25_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Greenbush Station",
+                "North Scituate Station",
+                "Cohasset Station",
+                "Nantasket Junction Station",
+                "West Hingham Station",
+                "East Weymouth Station",
+                "Weymouth Landing/East Braintree Station",
+                "Quincy Center Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "16_Silver Line": {
+            "color": "#b9b9b9",
+            "stop_ids": [
+                "Chinatown Station",
+                "Tufts (formerly New England) Medical Center Station",
+                "Herald Street Station",
+                "East Berkeley Street Station",
+                "Union Park Street Station",
+                "Newton Street Station",
+                "Worcester Square Station",
+                "Massachusetts Avenue Station (Silver)",
+                "Lenox Street Station",
+                "Melnea Cass Boulevard Station",
+                "Dudley Square Station"
+            ],
+            "name": "Silver Line"
+        },
+        "19_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Fitchburg",
+                "North Leominster",
+                "Shirley",
+                "Ayer",
+                "Littleton/Route 495",
+                "South Acton",
+                "West Concord",
+                "Concord",
+                "Lincoln",
+                "Silver Hill",
+                "Hastings",
+                "Kendal Green",
+                "Brandeis/Roberts",
+                "Waltham",
+                "Waverley",
+                "Belmont Center",
+                "Porter Square Station",
+                "North Station"
+            ],
+            "name": "Commuter Rail"
+        },
+        "32_Commuter Rail": {
+            "color": "purple",
+            "stop_ids": [
+                "Rockport",
+                "Gloucester",
+                "West Gloucester",
+                "Manchester",
+                "Beverly Farms",
+                "Prides Crossing",
+                "Montserrat",
+                "Beverly Depot"
+            ],
+            "name": "Commuter Rail"
+        },
+        "5_Green Line": {
+            "color": "green",
+            "stop_ids": [
+                "Copley Station",
+                "Hynes Convention Center/ICA Station",
+                "Kenmore Station"
+            ],
+            "name": "Green Line"
+        }
+    },
+    "agency_name": "MBTA"
+}

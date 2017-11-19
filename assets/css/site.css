@@ -6,7 +6,8 @@ body {
 
 .container {
     margin: 0 auto;
-    max-width: 800px;
+    /*max-width: 800px;*/
+    width:100%;
 }
 
 .top {
@@ -31,10 +32,10 @@ p.byline {
 }
 
 #instructions {
-    height: 300px;
+    height: 650px;
     width: 100%;
     text-align: center;
-    padding-top: 100px;
+    position:relative;
 }
 
 #instructions p {
@@ -42,7 +43,7 @@ p.byline {
 }
 
 #graph h3 {
-    padding-left: 28px;
+    padding-left: 125px;
     margin: 0;
 }
 
@@ -77,7 +78,7 @@ p {
 
 .axis text {
     font-family: Helvetica, sans-serif;
-    font-size: 9px;
+    font-size: 12px;
 }
 
 div svg {
@@ -94,7 +95,7 @@ div svg {
 }
 
 .y-axis-label {
-    font-size: 10px;
+    font-size: 18px;
     fill: #666;
 }
 
@@ -231,10 +232,33 @@ div#map {
 #share .fb-like {
     margin-right: 15px;
 }
-
-/* Embeddable version */
-
-body.embeddable div#map {
-    display: none;
+.MainContents{
+	display:table;
+	width:100%;
+	table-layout:fixed;
 }
 
+.TransitLines{
+	vertical-align:top;
+	padding-top:50px;
+	display:table-cell;
+	width:200px;
+	padding-left:50px;
+}
+.span6{
+	display:table-cell;
+	width: auto;
+	float:none;
+}
+.span8
+{
+float:none;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.span10
+{
+	width:100%;
+	text-align:center;
+}

@@ -1,7 +1,6 @@
 angular.module('app', []);
 
-angular.module('app').constant('DATA_SOURCES',
-    ["data/MUNI.json", "data/BART.json", "data/CalTrain.json"]
+angular.module('app').constant('DATA_SOURCES', ["data/updatedFile.json"]
     );
 
 angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function($scope, DATA_SOURCES) {
@@ -21,23 +20,6 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
                 $scope.$apply();
             }
         });
-    });
-
-    // Load and show the map of CA
-    d3.json("data/ca-topo.json", function (error, ca_topojson){
-        map_data = ca_topojson;
-        
-        $scope.map_projection = d3.geo.albers().parallels([37.69,37.77]).scale(23000).translate([8000,1020]);
-
-        // Draw the coastline of the bay area
-        map_svg = d3.select("#map svg");
-        map_svg.append("path")
-        .attr("class","landmass")
-        .datum(topojson.feature(map_data, map_data.objects.ca))
-        .attr("d", d3.geo.path().projection($scope.map_projection));
-        
-        // Path that will show the route of the line we're looking at:
-        map_svg.append("path").attr("class", "route-line"); 
     });
 
     // Returns whether the given route ID is selected
@@ -75,10 +57,10 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
         if (routeColor === undefined) routeColor = "#666";
 
         // dimensions
-        var w = 580,
-        h = 260,
+        var w = $("#graph").width() - 30,
+        h = 500,
         hMargin = 65,
-        vMargin = 20,
+        vMargin = 60,
         dotRadius = 5,
         moneyFormat = d3.format(",");
         yScale = d3.scale.linear().domain([200000, 0]).range([10, h - vMargin]);
@@ -130,7 +112,7 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
          // X axis elements
          svg.append("g")
          .attr("class", "axis x-axis")
-         .attr("transform", "translate(0," + (h - vMargin) + ")")
+         .attr("transform", "translate(0," + (h - vMargin + 10) + ")")
          .call(xAxis)
          .selectAll("text")
          .style("text-anchor", "end")
@@ -182,7 +164,7 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
             this.setAttribute("r", 10);
 
             // show a map marker
-            marker_coords = $scope.map_projection([stop.lon, stop.lat]);
+           /* marker_coords = $scope.map_projection([stop.lon, stop.lat]);
             map_svg.select("circle.stop-marker").remove();
             circle = map_svg.append("circle")
             .attr("class", "stop-marker")
@@ -190,6 +172,7 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
             .attr("fill",routeColor)
             .attr("cx",marker_coords[0])
             .attr("cy",marker_coords[1]);
+            */
         })
         .on("mousemove", function() {
             tooltip.style("top", (event.pageY - $("body").scrollTop() - 10) + "px")
@@ -200,17 +183,5 @@ angular.module('app').controller('AppCtrl', ['$scope', 'DATA_SOURCES', function(
             this.setAttribute("r", dotRadius);
             map_svg.select("circle.stop-marker").remove();
         });
-
-        // Update the map to show this route
-        var route_line = d3.svg.line().x(function(d){return d[0];}).y(function(d){return d[1];}).interpolate("cardinal");
-
-        // Project lat->lng into coordinates to display on the map
-        positions = stops.map(function(stop){return $scope.map_projection([stop.lon, stop.lat]);});
-
-        map_svg.select("path.route-line")
-        .transition()
-        .attr("d", route_line(positions))
-        .attr("stroke", routeColor);
-
     };
 }]);
